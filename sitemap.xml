@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://NehaV20.github.io/Interactive-API-Documentation/index.html</loc>
-         <lastmod>2025-11-22</lastmod>
+         <lastmod>2025-12-08</lastmod>
     </url>
     <url>
          <loc>https://NehaV20.github.io/Interactive-API-Documentation/1.Orders.html</loc>
-         <lastmod>2025-11-22</lastmod>
+         <lastmod>2025-12-08</lastmod>
     </url>
     <url>
          <loc>https://NehaV20.github.io/Interactive-API-Documentation/2.Trades.html</loc>
-         <lastmod>2025-11-22</lastmod>
+         <lastmod>2025-12-08</lastmod>
     </url>
     <url>
          <loc>https://NehaV20.github.io/Interactive-API-Documentation/3.Positions.html</loc>
-         <lastmod>2025-11-22</lastmod>
+         <lastmod>2025-12-08</lastmod>
+    </url>
+    <url>
+         <loc>https://NehaV20.github.io/Interactive-API-Documentation/4.Signals.html</loc>
+         <lastmod>2025-12-08</lastmod>
     </url>
 </urlset>
