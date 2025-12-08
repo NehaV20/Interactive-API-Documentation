@@ -15,6 +15,7 @@ nav:
   - Orders: 1.Orders.md
   - Trades: 2.Trades.md
   - Positions: 3.Positions.md
+  - Signal: 4.Signals.md
 
 extra_css:
   - css/custom.css
